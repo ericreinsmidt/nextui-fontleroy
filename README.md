@@ -4,9 +4,9 @@
 
 ![Fontleroy](assets/logo.png)
 
-[![Release](https://img.shields.io/github/v/release/ericreinsmidt/nextui-fontleroy?style=for-the-badge&color=cc5500)](https://github.com/ericreinsmidt/nextui-fontleroy/releases)
-[![Downloads](https://img.shields.io/github/downloads/ericreinsmidt/nextui-fontleroy/total?style=for-the-badge&color=cc5500)](https://github.com/ericreinsmidt/nextui-fontleroy/releases)
-[![License](https://img.shields.io/github/license/ericreinsmidt/nextui-fontleroy?style=for-the-badge&color=cc5500)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/ericreinsmidt/nextui-fontleroy?style=for-the-badge&color=daa520)](https://github.com/ericreinsmidt/nextui-fontleroy/releases)
+[![Downloads](https://img.shields.io/github/downloads/ericreinsmidt/nextui-fontleroy/total?style=for-the-badge&color=daa520)](https://github.com/ericreinsmidt/nextui-fontleroy/releases)
+[![License](https://img.shields.io/github/license/ericreinsmidt/nextui-fontleroy?style=for-the-badge&color=daa520)](LICENSE)
 
 A font manager for [NextUI](https://github.com/LoveRetro/NextUI) on TrimUI handheld devices.
 
