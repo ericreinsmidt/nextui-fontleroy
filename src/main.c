@@ -63,7 +63,6 @@ static int font_count = 0;
  * ----------------------------------------------------------------------- */
 
 static char pak_dir[MAX_PATH_LEN];
-static char state_dir[MAX_PATH_LEN];
 static char user_fonts_dir[MAX_PATH_LEN];
 static char pak_fonts_dir[MAX_PATH_BUF];
 static char backup_path1[MAX_PATH_LEN] = SYSTEM_FONT1 ".bak";
@@ -438,11 +437,9 @@ int main(int argc, char *argv[]) {
     (void)argv;
 
     const char *env_pak   = getenv("FONTLEROY_PAK_DIR");
-    const char *env_state = getenv("FONTLEROY_STATE_DIR");
     const char *env_fonts = getenv("FONTLEROY_FONTS_DIR");
 
     snprintf(pak_dir,        MAX_PATH_LEN, "%s", env_pak   ? env_pak   : ".");
-    snprintf(state_dir,      MAX_PATH_LEN, "%s", env_state ? env_state : ".");
     snprintf(user_fonts_dir, MAX_PATH_LEN, "%s", env_fonts ? env_fonts : "./fonts");
     snprintf(pak_fonts_dir,  sizeof(pak_fonts_dir), "%s/res/fonts", pak_dir);
 
