@@ -1,0 +1,20 @@
+{
+  "name": "Fontleroy",
+  "version": "v0.1.0",
+  "type": "TOOL",
+  "description": "Font manager for NextUI. Browse, preview, and install system fonts on TrimUI Brick and Smart Pro.",
+  "author": "Eric Reinsmidt",
+  "repo_url": "https://github.com/ericreinsmidt/nextui-fontleroy",
+  "release_filename": "Fontleroy.tg5040.pak.zip",
+  "platforms": [
+    "tg5040"
+  ],
+  "changelog": {
+    "v0.1.0": "Initial release. Browse bundled and user fonts, live preview with sample text, install as system font, backup and restore original."
+  },
+  "screenshots": [
+    "assets/logo.png",
+    "assets/screenshots/preview.png",
+    "assets/screenshots/installed.png"
+  ]
+}

@@ -1,0 +1,5 @@
+build/
+dist/
+ports/tg5040/pak/bin/fontleroy
+*.o
+.DS_Store

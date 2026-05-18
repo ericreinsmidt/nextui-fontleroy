@@ -1,0 +1,6 @@
+[submodule "third_party/apostrophe"]
+	path = third_party/apostrophe
+	url = https://github.com/Helaas/Apostrophe.git
+[submodule "third_party/pakkit"]
+	path = third_party/pakkit
+	url = https://github.com/ericreinsmidt/pakkit.git
