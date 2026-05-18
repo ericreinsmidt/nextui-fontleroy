@@ -28,7 +28,7 @@ Built with [PakKit](https://github.com/ericreinsmidt/pakkit) and [Apostrophe](ht
 ## Screenshots
 
 | Preview | Installed |
-|---------|-----------|
+|:---------:|:-----------:|
 | ![Preview](assets/screenshots/preview.png) | ![Installed](assets/screenshots/installed.png) |
 | Font preview | Press Start 2P installed as system font |
 
