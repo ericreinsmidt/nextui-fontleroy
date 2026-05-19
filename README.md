@@ -18,9 +18,9 @@ Built with [PakKit](https://github.com/ericreinsmidt/pakkit) and [Apostrophe](ht
 
 - **14 bundled fonts** — Curated selection of free fonts ready to install
 - **User font support** — Drop your own TTF files into the user fonts folder
-- **Full-screen preview** — See how each font looks at all 5 NextUI text sizes (Large, Medium, Small, Tiny, Micro)
+- **Specimen preview** — See how each font looks at all 5 NextUI text sizes (Large, Medium, Small, Tiny, Micro)
+- **System preview** — Interactive mock of the NextUI menu using the selected font with your theme
 - **Exact system rendering** — Preview matches NextUI's actual font sizes and bold styling
-- **Scrollable specimen** — Uppercase, lowercase, numbers, and symbols all visible
 - **One-button install** — Writes font to both system font slots and quits for immediate effect
 - **Safe backups** — Original system fonts backed up alongside the originals (survives app uninstall)
 - **One-button restore** — Restore original system fonts at any time
@@ -37,7 +37,8 @@ Built with [PakKit](https://github.com/ericreinsmidt/pakkit) and [Apostrophe](ht
 | Button | Action |
 |--------|--------|
 | Left/Right | Cycle through fonts |
-| Up/Down | Scroll preview |
+| Up/Down | Scroll specimen / navigate system menu |
+| X | Toggle between specimen and system preview |
 | A | Install selected font (confirms, then quits) |
 | Y | Restore original fonts (confirms, then quits) |
 | B | Quit |
